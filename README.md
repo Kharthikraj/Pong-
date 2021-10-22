@@ -8,9 +8,15 @@ Languages used:
   Only 2D games can be created.
   This game can be run by love ide.
   
+If you want to run this game:
+  Download the code as zip file and extract it.
+  Run the folder as a whole in love ide.
+  
 How to play:
   We have two players, player one and player two.
   Player one and two has paddles on the left and right edges of the screen respectively.
   Both the paddles can be controlled by 'w, s' and 'up, down' keys respectively by player one and player two for moving the paddles up and down.
   Hit the 'enter' or 'return' button and enjoy the game.
   First player to take ten points wins!1
+  
+
